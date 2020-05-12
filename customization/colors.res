@@ -12,17 +12,17 @@ Scheme
 		
 		// Health
 		"Health Value"					"0 0 0 255"
-		"Health Low"					"255 50 50 255"
+		"Health Low"					"255 255 100 255"
 		"Health Low Pulse"				"255 255 255 255"
 		"Health Buff"					"0 255 150 255"
-		"Health Buff Pulse"				"255 255 255 255"
+		// "Health Buff Pulse"				"255 255 255 255"
 
 		// Ammo
 		"Ammo In Clip"					"0 0 0 255"
 		"Ammo In Reserve"				"0 0 0 255"
 		"Ammo No Clip"					"0 0 0 255"
-		"Ammo Low"						"255 150 150 255"
-		"Ammo Low Pulse"				"255 255 255 255"
+		"Ammo Low"						"255 255 100 255"
+		// "Ammo Low Pulse"				"255 255 255 255"
 		
 		// Medic Charge
 		"Charge Percent"				"0 0 0 255"
