@@ -18,7 +18,8 @@
 		"wide"			"190"
 		"tall"			"100"
 		"visible"		"0"
-		"bgcolor_override"		"255 255 255 0"
+		"bgcolor_override"		"thudDark"
+		"paintbackground"	"1"
 		"PaintBackgroundType"	"0"
 		
 		"model_ypos"		"10"
@@ -41,13 +42,14 @@
 			"fieldName"		"itemmodelpanel"
 			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
+			"inventory_image_type"	"1"
 		}
 		
 		"ItemLabel"
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"ItemLabel"
-			"font"			"DefaultSmall"
+			"font"			"tfont10"
 			"xpos"			"10"
 			"ypos"			"3"
 			"zpos"			"1"
@@ -61,8 +63,9 @@
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
+			"fgcolor_override"		"thudWhite"
 		}
-	}		
+	}
 	
 	"FreezePanelBase"	[$WIN32]
 	{
