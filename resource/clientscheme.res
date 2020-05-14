@@ -172,5 +172,10 @@ Scheme
 			"font" "resource/fonts/NexaLight.otf"
 			"name" "NexaLight"
 		}
+		"13" 
+		{
+			"font" "resource/fonts/Asimov.otf"
+			"name" "Asimov"
+		}
 	}
 }

@@ -12,7 +12,7 @@ Scheme
 		
 		// Health
 		"Health Value"					"0 0 0 255"
-		"Health Low"					"255 255 100 255"
+		"Health Low"					"255 255 50 255"
 		"Health Low Pulse"				"255 255 255 255"
 		"Health Buff"					"0 255 150 255"
 		// "Health Buff Pulse"				"255 255 255 255"
@@ -47,6 +47,9 @@ Scheme
 		"thudBlack"						"0 0 0 255"
 		"thudTransparentWhite"			"255 255 255 150"
 		"thudTransparentBlack"			"0 0 0 150"
+		
+		"thudLessWhite"					"200 200 200 255"
+		"thudLesserWhite"				"150 150 150 255"
 	
 		"thudLight"						"40 40 40 255"
 		"thudDark"						"30 30 30 255"
@@ -56,5 +59,6 @@ Scheme
 		"thudGreen"						"0 255 0 255"
 		"thudTeal"						"0 125 140 255"
 		"thudDarkTeal"					"0 90 100 255"
+		"thudBlue"						"10 100 130"
 	}
 }
