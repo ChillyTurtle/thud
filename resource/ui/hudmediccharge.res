@@ -44,8 +44,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"3"
-		"ypos"			"3"
+		"xpos"			"2"
+		"ypos"			"2"
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
@@ -60,8 +60,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"tfontbold48"
-		"fgcolor"		"ShadowBlack"
-		"alpha"			"0"
+		"fgcolor"		"Charge Percent Shadow"
 	}
 
 	"IndividualChargesLabel"
@@ -107,9 +106,8 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"bgcolor_override"	"thudWhite"
+		"bgcolor_override"	"Charge BG"
 		"fgcolor_override"	"Charging"
-		"alpha"			"150"
 	}		
 
 	"ChargeMeter1"

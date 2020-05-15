@@ -182,9 +182,11 @@
 			"xpos"			"0"		// FIXME
 			"ypos"			"130"
 			"zpos"			"4"
-			"wide"			"306"
-			"tall"			"38"
-			"visible"		"1"
+			// "wide"			"306"
+			"wide"			"0"			
+			// "tall"			"38"
+			"tall"			"0"			
+			"visible"		"0"
 
 			"NemesisPanelBG"
 			{

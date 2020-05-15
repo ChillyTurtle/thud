@@ -1,7 +1,12 @@
 hudanimations_manifest
 {
 
+// If you're using colors_SolarLightHUD.res,
+	// comment hudanimations_custom.txt
+	// and uncomment hudanimations_SolarLightHUD.txt
+
 "file" "scripts/hudanimations.txt"
 "file" "scripts/hudanimations_custom.txt"
+//"file" "scripts/hudanimations_SolarLightHUD.txt"
 "file" "scripts/hudanimations_tf.txt"
 }

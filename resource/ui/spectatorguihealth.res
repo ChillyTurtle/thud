@@ -86,8 +86,7 @@
 		"tall_minmode"	"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"thudWhite"
-		"alpha"			"150"
+		"bgcolor_override"	"Health BG"
 	}
 	"PlayerStatusHealthValue"
 	{
@@ -108,6 +107,26 @@
 		"textAlignment"	"center"	
 		"font"			"tfontbold20"
 		"fgcolor"		"Health Value"
+	}
+	"PlayerStatusHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"2"
+		"xpos_minmode"	"2"
+		"ypos"			"2"
+		"ypos_minmode"	"2"
+		"zpos"			"5"
+		"wide"			"40"
+		"wide_minmode"	"40"
+		"tall"			"20"
+		"tall_minmode"	"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"tfontbold20"
+		"fgcolor"		"Health Value Shadow"
 	}
 	"PlayerStatusPlayerLevel"
 	{

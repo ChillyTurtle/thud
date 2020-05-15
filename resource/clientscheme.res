@@ -177,5 +177,15 @@ Scheme
 			"font" "resource/fonts/Asimov.otf"
 			"name" "Asimov"
 		}
+		"14" 
+		{
+			"font" "resource/fonts/Futura Heavy BT.ttf"
+			"name" "Futura Heavy BT"
+		}
+		"15" 
+		{
+			"font" "resource/fonts/Futura Medium BT.ttf"
+			"name" "Futura Medium BT"
+		}
 	}
 }

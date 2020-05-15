@@ -6,8 +6,8 @@
 		// Change labelText to the corresponding crosshair in KnucklesCrosses.png
 	KnucklesCrosses
 	{
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
 		"labelText"			"h"
 		"controlName"		"CExLabel"
 		"fieldName"	 		"KnucklesCrosses"

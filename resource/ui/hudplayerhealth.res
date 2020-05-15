@@ -86,9 +86,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"3"
-		"xpos_minmode"	"3"
-		"ypos"			"3"	[$WIN32]
+		"xpos"			"2"
+		"xpos_minmode"	"2"
+		"ypos"			"2"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"250"
 		"tall"			"120"
@@ -97,8 +97,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"tfontbold48"
-		"fgcolor"		"ShadowBlack"
-		"alpha"			"0"
+		"fgcolor"		"Health Value Shadow"
 	}
 	HealthBG
 	{
@@ -113,8 +112,7 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"		"thudWhite"
-		"alpha"			"150"
+		"bgcolor_override"		"Health BG"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
