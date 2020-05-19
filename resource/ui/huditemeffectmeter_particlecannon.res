@@ -7,9 +7,10 @@
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
 		"ypos"			"c116"	[$WIN32]
-		"xpos_minmode"	"c-60"	[$WIN32]
+		"xpos_minmode"	"c-50"	[$WIN32]
 		"ypos_minmode"	"c70"	[$WIN32]
 		"wide"			"120"
+		"wide_minmode"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -44,6 +45,7 @@
 		"ypos_minmode"			"4"
 		"zpos"					"2"
 		"wide"					"120"
+		"wide_minmode"			"100"
 		"tall"					"12"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -73,7 +75,7 @@
 		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"120"
-		"wide_minmode"			"120"
+		"wide_minmode"			"100"
 		"tall"					"4"		
 		"tall_minmode"			"3"			
 		"autoResize"			"0"

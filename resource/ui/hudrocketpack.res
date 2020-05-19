@@ -11,6 +11,7 @@
 		"ypos"			"c144"	[$WIN32]
 		"ypos_minmode"	"c100"
 		"wide"			"120"
+		"wide_minmode"	"100"
 		"tall"			"12"
 	}
 
@@ -45,6 +46,7 @@
 		"ypos_minmode"	"4"
 		"zpos"			"2"
 		"wide"			"120"
+		"wide_minmode"	"100"
 		"tall"			"12"
 		"autoResize"	"1"
 		"pinCorner"		"2"
@@ -68,7 +70,7 @@
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"58"
-		"wide_minmode"	"58"
+		"wide_minmode"	"48"
 		"tall"			"4"
 		"tall_minmode"	"3"		
 		"autoResize"	"0"
@@ -87,10 +89,11 @@
 		"fieldName"		"ItemEffectMeter2"
 		"font"			"Default"
 		"xpos"			"62"
+		"xpos_minmode"	"52"
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"58"
-		"wide_minmode"	"58"
+		"wide_minmode"	"48"
 		"tall"			"4"	
 		"tall_minmode"	"3"			
 		"autoResize"	"0"

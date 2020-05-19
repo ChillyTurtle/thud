@@ -109,12 +109,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
-		"xpos_minmode"	"c-60"	[$WIN32]
+		"xpos_minmode"	"c-50"	[$WIN32]
 		"ypos"			"c116"	[$WIN32]
 		"ypos_minmode"	"c70"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
-		"wide_minmode"	"120"
+		"wide_minmode"	"100"
 		"tall"			"4"
 		"tall_minmode"	"3"
 		"MeterFG"		"White"
@@ -127,12 +127,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
-		"xpos_minmode"	"c-60"	[$WIN32]
+		"xpos_minmode"	"c-50"	[$WIN32]
 		"ypos"			"c130"	[$WIN32]
 		"ypos_minmode"	"c85"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
-		"wide_minmode"	"120"
+		"wide_minmode"	"100"
 		"tall"			"4"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -226,10 +226,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-150"
-		"xpos_minmode"			"c-130"
+		"xpos"					"c-160"
+		"xpos_minmode"			"c-100"
 		"ypos"					"c40"
-		"ypos_minmode"			"c15"
+		"ypos_minmode"			"c0"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -269,9 +269,10 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"c50"
+		"ypos_minmode"	"c35"
 		"wide"	 	"252"
 		"tall"	 	"26"
-		"tall_minmode"	 	"28"
+		"tall_minmode"	 	"26"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -304,10 +305,10 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c80"
+		"ypos"		"c125"
 		"wide"	 	"252"
 		"tall"	 	"26"
-		"tall_minmode"	 	"28"
+		"tall_minmode"	 	"26"
 		"priority"	"35"
 
 		if_vr
@@ -1035,10 +1036,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
-		"xpos_minmode"	"c-60"	[$WIN32]
+		"xpos_minmode"	"c-50"	[$WIN32]
 		"ypos"			"c116"	[$WIN32]
 		"ypos_minmode"	"c70"	[$WIN32]
 		"wide"			"120"
+		"wide_minmode"	"100"
 		"tall"			"50"
 	}	
 
