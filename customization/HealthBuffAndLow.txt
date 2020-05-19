@@ -1,0 +1,2 @@
+// To change the animation of the Health Buff and Health Low,
+// go to scripts/hudanimations_manifest

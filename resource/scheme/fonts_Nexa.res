@@ -102,6 +102,16 @@ Scheme
 			}
 		}
 		
+		"tfont8"
+		{
+			"1"
+			{
+				"name"		"NexaLight"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		"tfontDamageNumbers"
 		{
 			"1"
@@ -205,6 +215,16 @@ Scheme
 			{
 				"name"		"NexaBold"
 				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"tfontbold8"
+		{
+			"1"
+			{
+				"name"		"NexaBold"
+				"tall"		"8"
 				"antialias" "1"
 			}
 		}

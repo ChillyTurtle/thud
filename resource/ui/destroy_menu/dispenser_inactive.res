@@ -18,7 +18,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 	}
 	
 	"ItemBackground"	
@@ -76,7 +76,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 	}		
 			
 	"NumberBg"	

@@ -128,6 +128,27 @@
 		"font"			"tfontbold20"
 		"fgcolor"		"Health Value Shadow"
 	}
+	"PlayerStatusHealthValueShadow2"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow2"
+		"xpos"			"3"
+		"xpos_minmode"	"3"
+		"ypos"			"3"
+		"ypos_minmode"	"3"
+		"zpos"			"4"
+		"wide"			"40"
+		"wide_minmode"	"40"
+		"tall"			"20"
+		"tall_minmode"	"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"tfontbold20"
+		"fgcolor"		"Health Value Shadow 2"
+		"alpha"			"0"
+	}
 	"PlayerStatusPlayerLevel"
 	{
 		"ControlName"	"CExLabel"

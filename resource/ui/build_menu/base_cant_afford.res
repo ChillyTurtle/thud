@@ -18,7 +18,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"RedSolid"
 	}
 
 	"ItemBackground"
@@ -97,7 +97,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"RedSolid"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"

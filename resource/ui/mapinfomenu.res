@@ -131,7 +131,7 @@
 		
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "thudWhite"
-		"armedFgColor_override" "thudGreen"
+		"armedFgColor_override" "thudTeal"
 		"depressedFgColor_override" "thudWhite"
 		"selectedFgColor_override" "thudWhite"
 	}
@@ -184,7 +184,7 @@
 		
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "thudWhite"
-		"armedFgColor_override" "thudGreen"
+		"armedFgColor_override" "thudTeal"
 		"depressedFgColor_override" "thudWhite"
 		"selectedFgColor_override" "thudWhite"
 	}
@@ -212,7 +212,7 @@
 		
 		"fgcolor"			"255 255 255 128"
 		"defaultFgColor_override" "thudWhite"
-		"armedFgColor_override" "thudGreen"
+		"armedFgColor_override" "thudTeal"
 		"depressedFgColor_override" "thudWhite"
 		"selectedFgColor_override" "thudWhite"
 	}

@@ -13,10 +13,11 @@ Scheme
 		// Health
 		"Health Value"					"0 0 0 255"
 		"Health Value Shadow"			"0 0 0 0"
+		"Health Value Shadow 2"			"0 0 0 0"
 		"Health Low"					"255 255 50 150"
 		"Health Low Pulse"				"255 255 255 255"
 		"Health Buff"					"0 255 150 150"
-			// "Health Buff Pulse"				"255 255 255 255"
+		"Health Buff Pulse"				"255 255 255 255"
 		"Health BG"						"255 255 255 150"
 
 		// Ammo
@@ -25,21 +26,22 @@ Scheme
 		"Ammo In Reserve"				"0 0 0 255"
 		"Ammo No Clip"					"0 0 0 255"
 		"Ammo Low"						"255 255 50 150"
-			// "Ammo Low Pulse"				"255 255 255 255"
+		"Ammo Low Pulse"				"255 255 255 255"
 		"Ammo BG"						"255 255 255 150"
 		
 		// Medic Charge
 		"Charge Percent"				"0 0 0 255"
-		"Charge Percent Shadow"			"0 0 0 0"		
+		"Charge Percent Shadow"			"0 0 0 0"
+		"Charge Percent Shadow 2"		"0 0 0 0"
 		"Charging"						"255 0 150 150"
 		"Fully Charged"					"255 0 150 150"
 		"Fully Charged Pulse"			"255 255 255 150"
 		"Charge BG"						"255 255 255 150"		
 		
 		// Misc
-		"Damage Numbers"				"255 128 0 255"
+		"Damage Numbers"				"255 255 0 255"
 		"Heal Numbers"					"0 255 0 255"
-		"ShadowBlack"					"0 0 0 150"
+		"ShadowBlack"					"0 0 0 200"
 
 		// Team Colors
 		"thudBluTeam"					"0 165 240 255"
@@ -66,5 +68,7 @@ Scheme
 		"thudTeal"						"0 125 140 255"
 		"thudDarkTeal"					"0 90 100 255"
 		"thudBlue"						"10 100 130"
+		"thudMagenta"					"255 0 150 255"		
+		"thudDandelion"					"255 100 0 255"
 	}
 }

@@ -55,7 +55,8 @@
 		"zpos"					"2"
 		"wide"					"120"
 		"wide_minmode"			"120"
-		"tall"					"4"				
+		"tall"					"4"	
+		"tall_minmode"			"3"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -116,7 +117,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"tfont20"
-			"font_minmode"	"tfont20"
+			"font_minmode"	"tfont16"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -197,7 +198,7 @@
 			"dulltext"		"1"
 			"brighttext"	"0"
 			"font"			"tfont20"
-			"font_minmode"	"tfont20"
+			"font_minmode"	"tfont16"
 		}
 		"NumPipesLabelDropshadow"
 		{

@@ -7,6 +7,6 @@
 		"fieldName"		"HudItemEffectMeter"
 		"xpos"			"c-60"
 		"ypos"			"c130"
-		"ypos_minmode"	"c130"
+		"ypos_minmode"	"c85"
 	}
 }

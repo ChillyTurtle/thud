@@ -103,6 +103,16 @@ Scheme
 			}
 		}
 		
+		"tfont8"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Medium"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		"tfontDamageNumbers"
 		{
 			"1"
@@ -206,6 +216,16 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Black"
 				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"tfontbold8"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Black"
+				"tall"		"8"
 				"antialias" "1"
 			}
 		}

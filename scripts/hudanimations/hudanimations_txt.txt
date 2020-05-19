@@ -5,7 +5,7 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValue	FgColor		"Health Buff"		Linear 0.0 0.75
 	Animate PlayerStatusHealthValue	FgColor		"Health Buff Pulse"	Linear 0.85 0.75
 
-	RunEvent HudHealthBonusPulseLoop	0.4
+	RunEvent HudHealthBonusPulseLoop	1.70
 }
 
 // call to loop HudHealthBonusPulse
@@ -30,8 +30,8 @@ event HudHealthDyingPulse
 
 	Animate PlayerStatusHealthValue	FgColor		"Health Low"		Linear 0.0 0.75
 	Animate PlayerStatusHealthValue	FgColor		"Health Low Pulse"	Linear 0.85 0.75
-
-	RunEvent HudHealthDyingPulseLoop			0.4
+	
+	RunEvent HudHealthDyingPulseLoop			1.70
 }
 
 // call to loop HudHealthDyingPulse
@@ -61,7 +61,7 @@ event HudLowAmmoPulse
 	Animate AmmoNoClip		FgColor		"Ammo Low"			Linear 0.0 0.75
 	Animate AmmoNoClip		FgColor		"Ammo Low Pulse"	Linear 0.85 0.75
 	
-	RunEvent HudLowAmmoPulseLoop	0.4
+	RunEvent HudLowAmmoPulseLoop	1.70
 }
 
 // call to loop HudLowAmmoPulse
@@ -91,7 +91,7 @@ event HudMedicCharged
 	Animate	ChargeLabel 	FgColor		"Fully Charged"			Linear 0.0 0.75
 	Animate	ChargeLabel 	FgColor		"Fully Charged Pulse"	Linear 0.85 0.75
 
-	RunEvent HudMedicChargedLoop	0.6
+	RunEvent HudMedicChargedLoop	1.70
 }
 
 // call to loop HudHealthBonusPulse

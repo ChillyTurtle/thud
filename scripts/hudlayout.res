@@ -6,8 +6,8 @@
 		// Change labelText to the corresponding crosshair in KnucklesCrosses.png
 	KnucklesCrosses
 	{
-		"visible"			"0"
-		"enabled"			"0"
+		"visible"			"1"
+		"enabled"			"1"
 		"labelText"			"h"
 		"controlName"		"CExLabel"
 		"fieldName"	 		"KnucklesCrosses"
@@ -38,9 +38,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c25"	[$WIN32]
-		"xpos_minmode"	"c0"	[$WIN32]
+		"xpos_minmode"	"c-25"	[$WIN32]
 		"ypos"	"c75"	[$WIN32]
-		"ypos_minmode"	"c50"	[$WIN32]
+		"ypos_minmode"	"c25"	[$WIN32]
 		"wide"	"250"
 		"tall"	"120"
 	}
@@ -96,9 +96,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c25"	[$WIN32]
-		"xpos_minmode"	"c0"	[$WIN32]
+		"xpos_minmode"	"c-25"	[$WIN32]
 		"ypos"			"c75"	[$WIN32]
-		"ypos_minmode"	"c50"	[$WIN32]
+		"ypos_minmode"	"c25"	[$WIN32]
 		"wide"			"250"
 		"tall"			"120"
 	}
@@ -111,11 +111,12 @@
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-60"	[$WIN32]
 		"ypos"			"c116"	[$WIN32]
-		"ypos_minmode"	"c116"	[$WIN32]
+		"ypos_minmode"	"c70"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
 		"wide_minmode"	"120"
 		"tall"			"4"
+		"tall_minmode"	"3"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -128,7 +129,7 @@
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-60"	[$WIN32]
 		"ypos"			"c130"	[$WIN32]
-		"ypos_minmode"	"c130"	[$WIN32]
+		"ypos_minmode"	"c85"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
 		"wide_minmode"	"120"
@@ -1036,7 +1037,7 @@
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-60"	[$WIN32]
 		"ypos"			"c116"	[$WIN32]
-		"ypos_minmode"	"c116"	[$WIN32]
+		"ypos_minmode"	"c70"	[$WIN32]
 		"wide"			"120"
 		"tall"			"50"
 	}	

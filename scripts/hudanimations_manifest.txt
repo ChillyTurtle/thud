@@ -1,12 +1,24 @@
 hudanimations_manifest
 {
-
-// If you're using colors_SolarLightHUD.res,
-	// comment hudanimations_custom.txt
-	// and uncomment hudanimations_SolarLightHUD.txt
-
+// Don't touch this
 "file" "scripts/hudanimations.txt"
-"file" "scripts/hudanimations_custom.txt"
-//"file" "scripts/hudanimations_SolarLightHUD.txt"
+
+
+
+// -----------------------------------------
+// hudanimations_bg			// Colored rectangle behind Health and Ammo Values
+// hudanimations_txt		// Colored Health and Ammo Values
+// hudanimations_shadow		// Colored Health and Ammo Value Drop Shadows
+// CUSTOMIZATION: Uncomment only the one you want to use below.
+
+"file" "scripts/hudanimations/hudanimations_bg.txt"
+//"file" "scripts/hudanimations/hudanimations_txt.txt"
+//"file" "scripts/hudanimations/hudanimations_shadow.txt"
+
+// -----------------------------------------
+
+
+
+// Don't touch this
 "file" "scripts/hudanimations_tf.txt"
 }

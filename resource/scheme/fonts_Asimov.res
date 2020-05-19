@@ -111,6 +111,17 @@ Scheme
 				"weight"	"400"
 			}
 		}
+	
+		"tfont8"
+		{
+			"1"
+			{
+				"name"		"Asimov"
+				"tall"		"8"
+				"antialias" "1"
+				"weight"	"400"
+			}
+		}
 		
 		"tfontDamageNumbers"
 		{
@@ -216,6 +227,16 @@ Scheme
 			{
 				"name"		"Asimov"
 				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"tfontbold8"
+		{
+			"1"
+			{
+				"name"		"Asimov"
+				"tall"		"8"
 				"antialias" "1"
 			}
 		}

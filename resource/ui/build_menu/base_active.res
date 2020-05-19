@@ -18,7 +18,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 	}
 
 	"ItemBackground"
@@ -66,7 +66,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"thudBlack"
+		"iconColor"		"thudWhite"
 	}
 	
 	"CostLabel"
@@ -74,7 +74,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"tfontbold12"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 		"xpos"			"23"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -93,7 +93,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"

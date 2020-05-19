@@ -9,8 +9,8 @@
 		"zpos"			"0"
 		"wide"			"80"
 		"tall"			"330"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"fillcolor"		"thudTransparentWhite"
@@ -22,7 +22,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"10"
+		"wide"			"5"
 		"tall"	 		"330"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -92,7 +92,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"tfontbold24"
+		"font"			"tfontbold20"
 		"xpos"			"0"			// align me to the left edge of the first selection
 		"ypos"			"0"
 		"zpos"			"2"
@@ -106,7 +106,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 	}
 	
 	"CancelLabel"

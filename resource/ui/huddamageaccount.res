@@ -6,8 +6,8 @@
 		"text_x"				"0"
 		"text_y"				"0"
 		"delta_item_end_y"		"0"
-		"PositiveColor"			"thudGreen"
-		"NegativeColor"			"thudYellow"
+		"PositiveColor"			"Heal Numbers"
+		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"tfontboldDamageNumbers"
 		"delta_item_font_big"	"tfontboldDamageNumbers"
@@ -27,7 +27,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
-		"fgcolor"		"thudYellow"
+		"fgcolor"		"Damage Numbers"
 		"font"			"tfontboldDamageNumbers"
 	}
 	

@@ -102,6 +102,16 @@ Scheme
 			}
 		}
 		
+		"tfont8"
+		{
+			"1"
+			{
+				"name"		"Futura Medium BT"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		"tfontDamageNumbers"
 		{
 			"1"
@@ -205,6 +215,16 @@ Scheme
 			{
 				"name"		"Futura Heavy BT"
 				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"tfontbold8"
+		{
+			"1"
+			{
+				"name"		"Futura Heavy BT"
+				"tall"		"8"
 				"antialias" "1"
 			}
 		}

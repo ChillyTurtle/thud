@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
-		"ypos"			"c130"	[$WIN32]
+		"ypos"			"c116"	[$WIN32]
 		"xpos_minmode"	"c-60"	[$WIN32]
-		"ypos_minmode"	"c130"	[$WIN32]
+		"ypos_minmode"	"c100"	[$WIN32]
 		"wide"			"120"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -41,6 +41,7 @@
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"0"
 		"ypos"					"4"
+		"ypos_minmode"			"4"
 		"zpos"					"2"
 		"wide"					"120"
 		"tall"					"12"
@@ -58,6 +59,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"tfont10"
+		"font_minmode"			"tfont10"
 	}
 
 	"ItemEffectMeter"
@@ -72,7 +74,8 @@
 		"zpos"					"2"
 		"wide"					"120"
 		"wide_minmode"			"120"
-		"tall"					"4"				
+		"tall"					"4"		
+		"tall_minmode"			"3"			
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"

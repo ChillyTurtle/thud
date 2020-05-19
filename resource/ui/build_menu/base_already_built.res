@@ -18,7 +18,7 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"TanDark"
 	}
 
 	"ItemBackground"
@@ -80,7 +80,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"tfontbold12"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"TanDark"
 		"xpos"			"23"
 		"ypos"			"17"
 		"zpos"			"1"
@@ -99,7 +99,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"TanDark"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"

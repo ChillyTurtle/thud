@@ -67,5 +67,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"tfont20"
+		"font_minmode"	"tfont16"
 	}
 }

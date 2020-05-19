@@ -62,7 +62,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"tfontbold14"
+		"font"			"tfont14"
 		"font_minmode"	"TFFontMedium"
 		"xpos"			"50"
 		"xpos_minmode"	"50"

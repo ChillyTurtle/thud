@@ -144,7 +144,7 @@
 		{	
 			"ControlName"	"Label"
 			"fieldName"		"FreezeLabelKiller"
-			"font"			"tfontbold16"
+			"font"			"tfont16"
 			"xpos"			"61"
 			"ypos"			"173"
 			"zpos"			"5"

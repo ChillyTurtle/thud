@@ -9,13 +9,36 @@
 		"zpos"			"0"
 		"wide"			"90"
 		"tall"			"185"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
 		"fillcolor"		"thudTransparentWhite"
 	}
-	
+	"TeamIndicator"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TeamIndicator"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"5"
+		"tall"	 		"185"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible" 		"1" 
+		"enabled" 		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"replay/thumbnails/bg_red"
+		"teambg_3"		"replay/thumbnails/bg_blu"
+		
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
+	}		
 	"BuildIcon"	
 	{
 		"ControlName"	"CIconPanel"
@@ -52,7 +75,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"tfontbold24"
+		"font"			"tfontbold20"
 		"xpos"			"0"			// align me to the left edge of the first selection
 		"ypos"			"0"
 		"zpos"			"2"
@@ -66,7 +89,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"thudBlack"
+		"fgcolor"		"thudWhite"
 	}
 	
 	"TitleLabelDropshadow"

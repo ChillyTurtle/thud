@@ -70,9 +70,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -106,9 +106,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -142,9 +142,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -178,9 +178,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -214,9 +214,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -250,9 +250,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -286,9 +286,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -322,9 +322,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -359,9 +359,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -395,9 +395,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -430,9 +430,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -461,9 +461,9 @@
 		
 		"FgColor"					"thudWhite"
 		"defaultFgColor_override" 	"thudWhite"
-		"armedFgColor_override"		"thudGreen"
+		"armedFgColor_override"		"thudTeal"
 		"depressedFgColor_override" "thudWhite"
-		"selectedFgColor_override" 	"thudGreen"
+		"selectedFgColor_override" 	"thudTeal"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
