@@ -18,15 +18,15 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"25"	[$WIN32]
-		"xpos_minmode"	"25"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
-		"ypos_minmode"	"r88"	[$WIN32]
+		"xpos"			"0"	[$WIN32]
+		"xpos_minmode"	"0"	[$WIN32]
+		"ypos"			"r125"	[$WIN32]
+		"ypos_minmode"	"r125"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"175"  //75
-		"wide_minmode"	"37"
-		"tall"			"175"  //75
-		"tall_minmode"	"37"
+		"wide"			"100"  //75
+		"wide_minmode"	"100"
+		"tall"			"100"  //75
+		"tall_minmode"	"100"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
@@ -36,15 +36,15 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyImage"
-		"xpos"			"3"		[$WIN32]
+		"xpos"			"0"		[$WIN32]
 		"xpos_minmode"	"-5"	[$WIN32]
-		"ypos"			"r67"	[$WIN32]
-		"ypos_minmode"	"r44"	[$WIN32]
-		"zpos"			"2"
-		"wide"			"55"
-		"wide_minmode"	"27"
-		"tall"			"55"
-		"tall_minmode"	"27"
+		"ypos"			"r75"	[$WIN32]
+		"ypos_minmode"	"r75"	[$WIN32]
+		"zpos"			"3"
+		"wide"			"75"
+		"wide_minmode"	"75"
+		"tall"			"75"
+		"tall_minmode"	"75"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/class_spyred"

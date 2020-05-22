@@ -6,8 +6,8 @@
 		// Change labelText to the corresponding crosshair in KnucklesCrosses.png
 	KnucklesCrosses
 	{
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
 		"labelText"			"h"
 		"controlName"		"CExLabel"
 		"fieldName"	 		"KnucklesCrosses"
@@ -37,9 +37,9 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c25"	[$WIN32]
+		"xpos"	"c0"	[$WIN32]
 		"xpos_minmode"	"c-25"	[$WIN32]
-		"ypos"	"c75"	[$WIN32]
+		"ypos"	"c50"	[$WIN32]
 		"ypos_minmode"	"c25"	[$WIN32]
 		"wide"	"250"
 		"tall"	"120"
@@ -82,8 +82,6 @@
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
 		"ypos_minmode"	"r50"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -95,9 +93,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c25"	[$WIN32]
+		"xpos"			"c0"	[$WIN32]
 		"xpos_minmode"	"c-25"	[$WIN32]
-		"ypos"			"c75"	[$WIN32]
+		"ypos"			"c50"	[$WIN32]
 		"ypos_minmode"	"c25"	[$WIN32]
 		"wide"			"250"
 		"tall"			"120"
@@ -110,8 +108,8 @@
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-50"	[$WIN32]
-		"ypos"			"c116"	[$WIN32]
-		"ypos_minmode"	"c70"	[$WIN32]
+		"ypos"			"c91"	[$WIN32]
+		"ypos_minmode"	"c100"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
 		"wide_minmode"	"100"
@@ -128,8 +126,8 @@
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-50"	[$WIN32]
-		"ypos"			"c130"	[$WIN32]
-		"ypos_minmode"	"c85"	[$WIN32]
+		"ypos"			"c105"	[$WIN32]
+		"ypos_minmode"	"c115"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
 		"wide_minmode"	"100"
@@ -226,9 +224,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-160"
+		"xpos"					"c-135"
 		"xpos_minmode"			"c-100"
-		"ypos"					"c40"
+		"ypos"					"c15"
 		"ypos_minmode"			"c0"
 		"wide"					"116"
 		"tall"  				"180"
@@ -268,7 +266,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c50"
+		"ypos"		"c30"
 		"ypos_minmode"	"c35"
 		"wide"	 	"252"
 		"tall"	 	"26"
@@ -305,7 +303,8 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c125"
+		"ypos"		"c60"
+		"ypos_minmode"	"c125"
 		"wide"	 	"252"
 		"tall"	 	"26"
 		"tall_minmode"	 	"26"
@@ -1037,8 +1036,8 @@
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
 		"xpos_minmode"	"c-50"	[$WIN32]
-		"ypos"			"c116"	[$WIN32]
-		"ypos_minmode"	"c70"	[$WIN32]
+		"ypos"			"c91"	[$WIN32]
+		"ypos_minmode"	"c100"	[$WIN32]
 		"wide"			"120"
 		"wide_minmode"	"100"
 		"tall"			"50"

@@ -45,7 +45,11 @@ Scheme
 
 		// Team Colors
 		"thudBluTeam"					"0 165 240 255"
+		"thudBluTeamLight"				"100 100 255 255"
+		"thudBluTeamDark"				"50 50 150 255"
 		"thudRedTeam"					"240 41 48 255"
+		"thudRedTeamLight"				"255 100 100 255"
+		"thudRedTeamDark"				"150 50 50 255"
 
 		// -----------
 		// BASE COLORS

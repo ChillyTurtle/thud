@@ -13,7 +13,8 @@ hudanimations_manifest
 
 //"file" "scripts/hudanimations/hudanimations_bg.txt"
 //"file" "scripts/hudanimations/hudanimations_txt.txt"
-"file" "scripts/hudanimations/hudanimations_shadow.txt"
+//"file" "scripts/hudanimations/hudanimations_shadow.txt"
+"file" "scripts/hudanimations/hudanimations_custom.txt"
 
 // -----------------------------------------
 

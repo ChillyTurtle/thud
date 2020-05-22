@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-60"	[$WIN32]
-		"ypos"			"c130"	[$WIN32]
+		"ypos"			"c105"	[$WIN32]
 		"xpos_minmode"	"c-60"	[$WIN32]
-		"ypos_minmode"	"c85"	[$WIN32]
+		"ypos_minmode"	"c115"	[$WIN32]
 		"wide"			"120"
 		"tall"			"50"
 		"MeterFG"		"White"
