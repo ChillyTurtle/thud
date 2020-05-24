@@ -12,35 +12,39 @@ Scheme
 		
 		// Health
 		"Health Value"					"255 255 255 255"
-		"Health Value Shadow"			"0 0 0 200"
+		"Health Value Shadow"			"0 0 0 150"
 		"Health Value Shadow 2"			"0 0 0 255"
-		"Health Low"					"200 0 0 200"
-		"Health Low Pulse"				"255 100 0 200"
-		"Health Buff"					"10 100 130 200"
-		"Health Buff Pulse"				"255 0 150 200"
+		"Health Low"					"255 0 0 150"
+		"Health Low Pulse"				"255 100 0 255"
+		"Health Low Solid"				"255 0 0 255"
+		"Health Buff"					"0 120 200 150"
+		"Health Buff Pulse"				"255 0 150 255"
+		"Health Buff Solid"				"0 120 200 255"
 		"Health BG"						"0 0 0 0"
 
 		// Ammo
 		"Ammo In Clip"					"255 255 255 255"
-		"Ammo Shadow"					"0 0 0 200"
+		"Ammo Shadow"					"0 0 0 150"
 		"Ammo In Reserve"				"255 255 255 255"
 		"Ammo No Clip"					"255 255 255 255"
-		"Ammo Low"						"200 0 0 200"
-		"Ammo Low Pulse"				"255 100 0 200"
+		"Ammo Low"						"200 0 0 150"
+		"Ammo Low Pulse"				"255 100 0 255"
+		"Ammo Low Solid"				"200 0 0 255"
 		"Ammo BG"						"0 0 0 0"
 		
 		// Medic Charge
 		"Charge Percent"				"255 255 255 255"
-		"Charge Percent Shadow"			"0 0 0 200"
+		"Charge Percent Shadow"			"0 0 0 150"
 		"Charge Percent Shadow 2"		"0 0 0 255"
-		"Charging"						"255 0 150 200"
-		"Fully Charged"					"255 0 150 200"
-		"Fully Charged Pulse"			"255 100 0 200"
+		"Charging"						"255 0 150 150"
+		"Fully Charged"					"255 0 150 150"
+		"Fully Charged Pulse"			"255 100 0 255"
+		"Fully Charged Solid"			"255 0 150 255"
 		"Charge BG"						"0 0 0 0"
 		
 		// Misc
 		"Damage Numbers"				"255 255 0 255"
-		"Heal Numbers"					"10 100 130 255"
+		"Heal Numbers"					"0 150 255 255"
 		"ShadowBlack"					"0 0 0 200"
 
 		// Team Colors
@@ -71,7 +75,9 @@ Scheme
 		"thudGreen"						"0 255 0 255"
 		"thudTeal"						"0 125 140 255"
 		"thudDarkTeal"					"0 90 100 255"
-		"thudBlue"						"10 100 130 255"
+		"thudLightBlue"					"0 150 255 255"
+		"thudDarkBlue"					"10 100 130 255"
+		"thudBlue"						"0 120 200 255"
 		"thudMagenta"					"255 0 150 255"
 		"thudDandelion"					"255 100 0 255"
 	}

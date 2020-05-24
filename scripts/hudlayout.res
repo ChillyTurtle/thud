@@ -290,7 +290,7 @@
 		"ypos"		"350"
 		"wide"	 	"252"
 		"tall"	 	"26"
-		"tall_minmode"	 	"24"
+		"tall_minmode"	 	"26"
 		"priority"	"40"
 		
 		"x_offset" "20"

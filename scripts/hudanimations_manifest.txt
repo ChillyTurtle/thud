@@ -11,10 +11,10 @@ hudanimations_manifest
 // hudanimations_shadow		// Colored Health and Ammo Value Drop Shadows
 // CUSTOMIZATION: Uncomment only the one you want to use below.
 
-//"file" "scripts/hudanimations/hudanimations_bg.txt"
+"file" "scripts/hudanimations/hudanimations_bg.txt"
 //"file" "scripts/hudanimations/hudanimations_txt.txt"
 //"file" "scripts/hudanimations/hudanimations_shadow.txt"
-"file" "scripts/hudanimations/hudanimations_custom.txt"
+//"file" "scripts/hudanimations/hudanimations_custom.txt"
 
 // -----------------------------------------
 
