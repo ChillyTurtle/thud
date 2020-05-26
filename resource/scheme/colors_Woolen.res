@@ -11,51 +11,51 @@ Scheme
 		// ---------------------
 		
 		// Health
-		"Health Value"					"255 255 255 255"
-		"Health Value Shadow"			"0 0 0 200"
+		"Health Value"					"0 255 0 255"
+		"Health Value Shadow"			"0 0 0 0"
 		"Health Value Shadow 2"			"0 0 0 255"	// for hudanimations_shadow
 		
-		"Health Low"					"160 0 0 255"
-		"Health Low Pulse"				"211 137 127 255"
-		"Health Low Solid"				"160 0 0 255"
+		"Health Low"					"255 0 0 255"
+		"Health Low Solid"				"255 0 0 255"
+		"Health Low Pulse"				"255 127 127 255"
 		
-		"Health Buff"					"0 160 0 255"
-		"Health Buff Pulse"				"137 211 137 255"
-		"Health Buff Solid"				"0 160 0 255"
+		"Health Buff"					"127 255 127 255"
+		"Health Buff Solid"				"127 255 127 255"
+		"Health Buff Pulse"				"127 255 127 255"
 		
 		"Health BG"						"0 0 0 0"	// keep alpha at 0 if you don't want the bg
 														// to show when not overhealed or low
 
 		// Ammo
-		"Ammo In Clip"					"255 255 255 255"
-		"Ammo In Reserve"				"255 255 255 255"
-		"Ammo No Clip"					"255 255 255 255"
-		"Ammo Shadow"					"0 0 0 200"
+		"Ammo In Clip"					"0 255 255 255"
+		"Ammo In Reserve"				"0 0 255 255"
+		"Ammo No Clip"					"0 255 255 255"
+		"Ammo Shadow"					"0 0 0 0"
 		
-		"Ammo Low"						"160 0 0 255"
-		"Ammo Low Pulse"				"211 137 127 255"
-		"Ammo Low Solid"				"160 0 0 255"
+		"Ammo Low"						"255 0 127 255"
+		"Ammo Low Solid"				"255 0 127 255"
+		"Ammo Low Pulse"				"255 127 255 255"
 		
 		"Ammo BG"						"0 0 0 0"	// keep alpha at 0 if you don't want the bg
 														// to show when not low
 		
 		// Medic Charge
 		"Charge Percent"				"255 255 255 255"
-		"Charge Percent Shadow"			"0 0 0 200"
+		"Charge Percent Shadow"			"0 0 0 0"
 		"Charge Percent Shadow 2"		"0 0 0 255"	// for hudanimations_shadow
 		
-		"Charging"						"0 0 0 0"	// for hudanimations_bg
-		"Fully Charged"					"255 0 150 255"
-		"Fully Charged Pulse"			"255 0 0 255"
-		"Fully Charged Solid"			"255 0 150 255"
+		"Charging"						"255 0 127 0"	// for hudanimations_bg
+		"Fully Charged"					"255 0 127 255"
+		"Fully Charged Solid"			"255 0 127 255"
+		"Fully Charged Pulse"			"50 50 50 255"
 		
 		"Charge BG"						"0 0 0 0"	// keep alpha at 0 if you don't want the bg
-														// to show when not at ubercharge 0
+														// to show when at 0 overcharge
 		
 		// Misc
 		"Damage Numbers"				"255 255 0 255"
-		"Heal Numbers"					"0 160 0 255"
-		"ShadowBlack"					"0 0 0 200"
+		"Heal Numbers"					"150 255 150 255"
+		"ShadowBlack"					"0 0 0 170"
 
 		// Team Colors
 		"thudBluTeam"					"0 165 240 255"
@@ -86,9 +86,9 @@ Scheme
 		"thudTeal"						"0 125 140 255"
 		"thudDarkTeal"					"0 90 100 255"
 		"thudLightBlue"					"0 150 255 255"
-		"thudBlue"						"0 120 200 255"
 		"thudDarkBlue"					"10 100 130 255"
-		"thudMagenta"					"255 0 150 255"	
+		"thudBlue"						"0 120 200 255"
+		"thudMagenta"					"255 0 150 255"
 		"thudDandelion"					"255 100 0 255"
 	}
 }

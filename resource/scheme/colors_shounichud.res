@@ -13,34 +13,44 @@ Scheme
 		// Health
 		"Health Value"					"0 0 0 255"
 		"Health Value Shadow"			"0 0 0 0"
-		"Health Value Shadow 2"			"0 0 0 0"
+		"Health Value Shadow 2"			"0 0 0 0"	// for hudanimations_shadow
+		
 		"Health Low"					"255 255 50 150"
 		"Health Low Pulse"				"255 255 255 255"
 		"Health Low Solid"				"255 255 50 255"
+		
 		"Health Buff"					"0 255 150 150"
 		"Health Buff Pulse"				"255 255 255 255"
 		"Health Buff Solid"				"0 255 150 255"
-		"Health BG"						"255 255 255 150"
+		
+		"Health BG"						"255 255 255 150"	// keep alpha at 0 if you don't want the bg
+																// to show when not overhealed or low
 
 		// Ammo
 		"Ammo In Clip"					"0 0 0 255"
-		"Ammo Shadow"					"0 0 0 0"
 		"Ammo In Reserve"				"0 0 0 255"
 		"Ammo No Clip"					"0 0 0 255"
+		"Ammo Shadow"					"0 0 0 0"
+		
 		"Ammo Low"						"255 255 50 150"
 		"Ammo Low Pulse"				"255 255 255 255"
 		"Ammo Low Solid"				"255 255 50 255"
-		"Ammo BG"						"255 255 255 150"
+		
+		"Ammo BG"						"255 255 255 150"	// keep alpha at 0 if you don't want the bg
+																// to show when not low
 		
 		// Medic Charge
 		"Charge Percent"				"0 0 0 255"
 		"Charge Percent Shadow"			"0 0 0 0"
-		"Charge Percent Shadow 2"		"0 0 0 0"
-		"Charging"						"255 0 150 150"
+		"Charge Percent Shadow 2"		"0 0 0 0"	// for hudanimations_shadow
+		
+		"Charging"						"255 0 150 150"	// for hudanimations_bg
 		"Fully Charged"					"255 0 150 150"
 		"Fully Charged Pulse"			"255 255 255 150"
 		"Fully Charged Solid"			"255 0 150 255"
-		"Charge BG"						"255 255 255 150"		
+		
+		"Charge BG"						"255 255 255 150"	// keep alpha at 0 if you don't want the bg
+																// to show when at 0 overcharge	
 		
 		// Misc
 		"Damage Numbers"				"255 255 0 255"
