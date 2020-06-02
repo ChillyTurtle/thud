@@ -187,5 +187,15 @@ Scheme
 			"font" "resource/fonts/Futura Medium BT.ttf"
 			"name" "Futura Medium BT"
 		}
+		"16" 
+		{
+			"font" "resource/fonts/Surface-Medium.otf"
+			"name" "Surface-Medium"
+		}
+		"17" 
+		{
+			"font" "resource/fonts/OstrichSansInline.otf"
+			"name" "OstrichSansInline"
+		}
 	}
 }

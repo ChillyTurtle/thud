@@ -17,8 +17,8 @@ hudanimations_manifest
 // CUSTOMIZATION: Uncomment only the one you want to use below.
 // ------------------------------------------------------------
 
-//"file" "scripts/hudanimations/hudanimations_bg.txt"
-"file" "scripts/hudanimations/hudanimations_fasttxt.txt"
+"file" "scripts/hudanimations/hudanimations_bg.txt"
+//"file" "scripts/hudanimations/hudanimations_fasttxt.txt"
 //"file" "scripts/hudanimations/hudanimations_slowtxt.txt"
 //"file" "scripts/hudanimations/hudanimations_shadow.txt"
 //"file" "scripts/hudanimations/hudanimations_blacktxt.txt"

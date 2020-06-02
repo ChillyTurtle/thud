@@ -307,15 +307,15 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"tfontbold16"
-			"fgcolor"		"240 240 240 255"
+			"fgcolor"		"255 255 255 255"
 			"xpos"			"0"
 			"ypos"			"4"
 			"zpos"			"3"
 			"wide"			"100"
-			"tall"			"16"
+			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"		"north"
 			"labelText"		"0:00"
 			
 			if_match
@@ -323,9 +323,9 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"cs-0.5"
-				"ypos"			"12"
-				"ypos_minmode"	"12"
-				"tall"			"10"
+				"ypos"			"8"
+				"ypos_minmode"	"8"
+				"tall"			"30"
 			}
 		}
 	}
