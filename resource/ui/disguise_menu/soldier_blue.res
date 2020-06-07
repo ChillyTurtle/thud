@@ -1,17 +1,21 @@
-#base "demoman_blue.res"
+#base "heavy_red.res"
 
 "Resource/UI/disguise_menu/soldier_blue.res"
 {
 	"ItemNameLabel"
-	{	
-		"labelText"		"Soldier"
+	{
+		"labelText"		"#TF_Class_Name_Soldier"
+		"fgcolor"		"153 194 216 255"
 	}
+	
 	"NewNumberLabel"
-	{	
-		"labelText"		"2"
+	{
+		"fgcolor"		"153 194 216 255"
 	}
+	
 	"NumberLabel"
-	{	
+	{
+		"fgcolor"		"153 194 216 255"
 		"labelText"		"2"
 	}
 }

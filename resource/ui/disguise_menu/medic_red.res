@@ -1,17 +1,19 @@
-#base "medic_blue.res"
+#base "heavy_red.res"
 
-"Resource/UI/disguise_menu/scout_red.res"
+"Resource/UI/disguise_menu/medic_red.res"
 {
 	"ItemNameLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"#TF_Class_Name_Medic"
 	}
+	
 	"NewNumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"1"
 	}
+	
 	"NumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"7"
 	}
 }

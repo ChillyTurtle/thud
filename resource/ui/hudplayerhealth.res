@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-250"		[$WIN32]
+		"xpos"			"c-275"		[$WIN32]
 		"xpos_minmode"	"c-225"		[$WIN32]
 		"ypos"			"c50"	[$WIN32]
 		"ypos_minmode"	"c25"	[$WIN32]
@@ -66,21 +66,38 @@
 		"scaleImage"	"1"	
 		"alpha"			"0"
 	}
+	"HealthBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HealthBG"
+		"xpos"			"65"
+		"xpos_minmode"	"90"
+		"ypos"			"38"
+		"ypos_minmode"	"50"
+		"zpos"			"2"
+		"wide"			"120"
+		"wide_minmode"	"70"
+		"tall"			"45"
+		"tall_minmode"	"28"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"		"Health BG"
+	}
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"0"
+		"xpos"			"30"
 		"xpos_minmode"	"0"
-		"ypos"			"0"	[$WIN32]
+		"ypos"			"38"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"150"
+		"tall"			"45"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"tfontbold48"
+		"textAlignment"	"East"	
+		"font"			"tfontbold56"
 		"font_minmode"	"tfontbold32"
 		"fgcolor"		"Health Value"
 	}
@@ -88,17 +105,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"2"
+		"xpos"			"32"
 		"xpos_minmode"	"2"
-		"ypos"			"2"	[$WIN32]
+		"ypos"			"39"	[$WIN32]
 		"zpos"			"4"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"150"
+		"tall"			"45"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"tfontbold48"
+		"textAlignment"	"East"	
+		"font"			"tfontbold56"
 		"font_minmode"	"tfontbold32"
 		"fgcolor"		"Health Value Shadow"
 	}
@@ -106,37 +123,20 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow2"
-		"xpos"			"3"
+		"xpos"			"33"
 		"xpos_minmode"	"3"
-		"ypos"			"3"	[$WIN32]
+		"ypos"			"40"	[$WIN32]
 		"zpos"			"3"
-		"wide"			"250"
-		"tall"			"120"
+		"wide"			"150"
+		"tall"			"45"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"tfontbold48"
+		"textAlignment"	"East"	
+		"font"			"tfontbold56"
 		"font_minmode"	"tfontbold32"
 		"fgcolor"		"Health Value Shadow 2"
 		"alpha"			"0"
-	}
-	HealthBG
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HealthBG"
-		"xpos"			"75"
-		"xpos_minmode"	"90"
-		"ypos"			"40"
-		"ypos_minmode"	"46"
-		"zpos"			"2"
-		"wide"			"100"
-		"wide_minmode"	"70"
-		"tall"			"40"
-		"tall_minmode"	"28"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"		"Health BG"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -160,7 +160,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"-45"
+		"xpos"			"-50"
 		"xpos_minmode"	"-25"
 		"ypos"			"48"
 		"wide"			"25"

@@ -9,14 +9,14 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"tfontboldDamageNumbers"
-		"delta_item_font_big"	"tfontboldDamageNumbers"
+		"delta_item_font"		"tfontDamageNumbers"
+		"delta_item_font_big"	"tfontDamageNumbers"
 	}
 	"DamageAccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-170"
+		"xpos"			"c-205"
 		"xpos_minmode"	"c-130"
 		"ypos"			"c60"
 		"ypos_minmode"	"c45"
@@ -28,7 +28,7 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"left"
 		"fgcolor"		"Damage Numbers"
-		"font"			"tfontboldDamageNumbers"
+		"font"			"tfontDamageNumbers"
 	}
 	
 	"DamageAccountValueBG"
@@ -45,6 +45,6 @@
 		"labelText"		"%metal%"
 		"textAlignment"	"west"
 		"fgcolor"		"thudTransparentBlack"
-		"font"			"tfontboldDamageNumbers"
+		"font"			"tfontDamageNumbers"
 	}
 }

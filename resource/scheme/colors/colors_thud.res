@@ -12,16 +12,16 @@ Scheme
 		
 		// Health
 		"Health Value"					"255 255 255 255"
-		"Health Value Shadow"			"0 0 0 100"
+		"Health Value Shadow"			"0 0 0 150"
 		"Health Value Shadow 2"			"0 0 0 255"	// for hudanimations_shadow
 		
-		"Health Low"					"255 0 0 200"
+		"Health Low"					"255 0 0 180"
 		"Health Low Pulse"				"255 100 0 255"
 		"Health Low Solid"				"255 0 0 255"
 		
-		"Health Buff"					"0 120 200 200"
+		"Health Buff"					"0 150 255 180"
 		"Health Buff Pulse"				"255 0 150 255"
-		"Health Buff Solid"				"0 120 200 255"
+		"Health Buff Solid"				"0 150 255 255"
 		
 		"Health BG"						"0 0 0 0"	// keep alpha at 0 if you don't want the bg
 														// to show when not overhealed or low
@@ -30,9 +30,9 @@ Scheme
 		"Ammo In Clip"					"255 255 255 255"
 		"Ammo In Reserve"				"255 255 255 255"
 		"Ammo No Clip"					"255 255 255 255"
-		"Ammo Shadow"					"0 0 0 100"
+		"Ammo Shadow"					"0 0 0 150"
 		
-		"Ammo Low"						"255 0 0 200"
+		"Ammo Low"						"255 0 0 180"
 		"Ammo Low Pulse"				"255 100 0 255"
 		"Ammo Low Solid"				"255 0 0 255"
 		
@@ -41,11 +41,11 @@ Scheme
 		
 		// Medic Charge
 		"Charge Percent"				"255 255 255 255"
-		"Charge Percent Shadow"			"0 0 0 100"
+		"Charge Percent Shadow"			"0 0 0 150"
 		"Charge Percent Shadow 2"		"0 0 0 255"	// for hudanimations_shadow
 		
-		"Charging"						"255 0 150 200"	// for hudanimations_bg
-		"Fully Charged"					"255 0 150 200"
+		"Charging"						"255 0 150 180"	// for hudanimations_bg
+		"Fully Charged"					"255 0 150 180"
 		"Fully Charged Pulse"			"255 100 0 255"
 		"Fully Charged Solid"			"255 0 150 255"
 		
@@ -55,7 +55,7 @@ Scheme
 		// Misc
 		"Damage Numbers"				"255 255 0 255"
 		"Heal Numbers"					"0 150 255 255"
-		"ShadowBlack"					"0 0 0 100"
+		"ShadowBlack"					"0 0 0 150"
 
 		// Team Colors
 		"thudBluTeam"					"0 165 240 255"

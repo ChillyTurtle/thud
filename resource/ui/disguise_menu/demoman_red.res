@@ -1,19 +1,19 @@
-#base "demoman_blue.res"
+#base "heavy_red.res"
 
 "Resource/UI/disguise_menu/demoman_red.res"
 {
 	"ItemNameLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"#TF_Class_Name_Demoman"
 	}
 	
 	"NewNumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"1"
 	}
 	
 	"NumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"4"
 	}
 }

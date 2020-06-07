@@ -164,38 +164,23 @@ Scheme
 		}
 		"11" 
 		{
-			"font" "resource/fonts/NexaBold.otf"
-			"name" "NexaBold"
-		}
-		"12" 
-		{
-			"font" "resource/fonts/NexaLight.otf"
-			"name" "NexaLight"
-		}
-		"13" 
-		{
-			"font" "resource/fonts/Asimov.otf"
-			"name" "Asimov"
-		}
-		"14" 
-		{
-			"font" "resource/fonts/Futura Heavy BT.ttf"
-			"name" "Futura Heavy BT"
-		}
-		"15" 
-		{
-			"font" "resource/fonts/Futura Medium BT.ttf"
-			"name" "Futura Medium BT"
-		}
-		"16" 
-		{
 			"font" "resource/fonts/Surface-Medium.otf"
 			"name" "Surface-Medium"
 		}
-		"17" 
+		"12" 
 		{
-			"font" "resource/fonts/OstrichSansInline.otf"
-			"name" "OstrichSansInline"
+			"font" "resource/fonts/NeutraText-Bold.otf"
+			"name" "NeutraText-Bold"
+		}
+		"13" 
+		{
+			"font" "resource/fonts/NeutraText-Book.otf"
+			"name" "NeutraText-Book"
+		}
+		"14" 
+		{
+			"font" "resource/fonts/Neutra Display Titling.ttf"
+			"name" "Neutra Display Titling"
 		}
 	}
 }

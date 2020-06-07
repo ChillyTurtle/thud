@@ -37,7 +37,7 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c0"	[$WIN32]
+		"xpos"	"c25"	[$WIN32]
 		"xpos_minmode"	"c-25"	[$WIN32]
 		"ypos"	"c50"	[$WIN32]
 		"ypos_minmode"	"c25"	[$WIN32]
@@ -93,7 +93,7 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c0"	[$WIN32]
+		"xpos"			"c25"	[$WIN32]
 		"xpos_minmode"	"c-25"	[$WIN32]
 		"ypos"			"c50"	[$WIN32]
 		"ypos_minmode"	"c25"	[$WIN32]
@@ -224,7 +224,7 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-185"
+		"xpos"					"c-220"
 		"xpos_minmode"			"c-145"
 		"ypos"					"c-5"
 		"ypos_minmode"			"c-20"
@@ -986,10 +986,10 @@
 		"fieldName" 	"HudMenuEngyBuild"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"r90"
-		"ypos"			"r330"
-		"wide"			"90"
-		"tall"			"400"
+		"xpos"			"c-125"
+		"ypos"			"c-50"
+		"wide"			"250"
+		"tall"			"100"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -998,10 +998,10 @@
 		"fieldName" 	"HudMenuEngyDestroy"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"r90"
-		"ypos"			"r330"
-		"wide"			"90"
-		"tall"			"400"
+		"xpos"			"c-125"
+		"ypos"			"c-50"
+		"wide"			"250"
+		"tall"			"100"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -1010,10 +1010,10 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"r90"
-		"ypos"			"r300"
-		"wide"			"90"
-		"tall"			"400"
+		"xpos"			"c-75"
+		"ypos"			"c-50"
+		"wide"			"150"
+		"tall"			"100"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1022,10 +1022,10 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"r120"
+		"xpos"			"c-99"
 		"ypos"			"c-50"
-		"wide"			"120"
-		"tall"			"175"	[$WIN32]
+		"wide"			"198"
+		"tall"			"100"	[$WIN32]
 		"PaintBackgroundType"	"0"
 	}	
 	
@@ -1397,10 +1397,10 @@
 		"fieldName" 	"HudMenuTauntSelection"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"r75"
-		"ypos"			"r410"
-		"wide"			"75"
-		"tall"			"410"
+		"xpos"			"c-235"
+		"ypos"			"c-50"
+		"wide"			"470"
+		"tall"			"100"
 		"PaintBackgroundType"	"0"
 	}
 

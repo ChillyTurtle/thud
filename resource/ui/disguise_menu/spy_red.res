@@ -1,17 +1,19 @@
-#base "spy_blue.res"
+#base "heavy_red.res"
 
 "Resource/UI/disguise_menu/spy_red.res"
 {
 	"ItemNameLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"#TF_Class_Name_Spy"
 	}
+	
 	"NewNumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"3"
 	}
+	
 	"NumberLabel"
-	{	
-		"fgcolor"		"thudRedTeam"
+	{
+		"labelText"		"9"
 	}
 }

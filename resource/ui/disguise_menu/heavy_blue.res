@@ -1,17 +1,19 @@
-#base "demoman_blue.res"
+#base "heavy_red.res"
 
-"Resource/UI/disguise_menu/heavy_red.res"
+"Resource/UI/disguise_menu/heavy_blue.res"
 {
 	"ItemNameLabel"
-	{	
-		"labelText"		"Heavy"
+	{
+		"fgcolor"		"153 194 216 255"
 	}
+	
 	"NewNumberLabel"
-	{	
-		"labelText"		"2"
+	{
+		"fgcolor"		"153 194 216 255"
 	}
+	
 	"NumberLabel"
-	{	
-		"labelText"		"5"
+	{
+		"fgcolor"		"153 194 216 255"
 	}
 }

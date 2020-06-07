@@ -5,7 +5,29 @@ Scheme
 		// THUD FONTS
 	
 		// AVENIR LT STD 
-
+		
+		"tfontHP"
+		{
+			"1"
+			{
+				"name"		"AvenirLTStd-Black"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"tfontDamageNumbers"
+		{
+			"1"
+			{
+				"name"		 "AvenirLTStd-Medium"
+				"tall" 		 "24"
+				"additive"	 "0"
+				"antialias"	 "1"
+				"outline"	 "1"
+			}
+		}
+		
 		"tfont56"
 		{
 			"1"
@@ -113,17 +135,6 @@ Scheme
 			}
 		}
 		
-		"tfontDamageNumbers"
-		{
-			"1"
-			{
-				"name"		 "AvenirLTStd-Medium"
-				"tall" 		 "22"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
 		"tfontbold56"
 		{
 			"1"
@@ -230,16 +241,6 @@ Scheme
 			}
 		}
 		
-		"tfontboldDamageNumbers"
-		{
-			"1"
-			{
-				"name"		 "AvenirLTStd-Black"
-				"tall" 		 "22"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
+		
 	}
 }

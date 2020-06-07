@@ -11,7 +11,7 @@
 		"tall"              "16"			//24
 		"visible"           "1"
 		"enabled"           "1"
-		"fillcolor"			"thudTransparentBlack"
+		"fillcolor"			"0 0 0 150"
 	}
 	
 	"TargetNameLabel"
