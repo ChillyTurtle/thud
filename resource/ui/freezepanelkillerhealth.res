@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"tfontbold24"
+		"font"			"tfontbold20"
 		"fgcolor"		"Health Value"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -125,7 +125,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"tfontbold24"
+		"font"			"tfontbold20"
 		"fgcolor"		"Health Value Shadow"
 	}
 	"PlayerStatusHealthValueShadow2"
